@@ -31,7 +31,10 @@ public class reajusteDeSalario {
         }
         else if (salario > 5000) {
             System.out.println("Sem reajuste!");
+
         }
+
         System.out.println("Novo Salario: " + salarioR);
+
     }
 }
